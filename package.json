@@ -1,0 +1,25 @@
+{
+  "name": "friday",
+  "version": "3.6.9",
+  "description": "Um sonho.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Cauã Gabriel da Silva, Layssa Karolina, Eduardo.",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.2",
+    "mathjs": "^6.0.4",
+    "opusscript": "^0.0.7",
+    "weather-js": "^2.0.0",
+    "moment": "^2.24.0",
+    "express": "^4.16.4",
+    "os-utils": "^0.0.14",
+    "ytdl-core": "^0.29.5",
+    "yt-search": "^0.4.1",
+    "ms": "^2.1.2"
+  }
+}
